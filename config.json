@@ -1,0 +1,9 @@
+{
+	"ip":"SansServerindo.aternos.me",
+	"port": "25565",
+	"name": "botserver",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
